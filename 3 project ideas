@@ -1,0 +1,27 @@
+Project: Submit 3 potential Capstone project ideas and discuss with your mentor.
+
+The content of this document is the same as was sent in the 12/5/16 email titled "Capstone Ideas."
+I am placing it here so that I can mark it as a completed task on the springboard.com curriculum.
+
+1. Predicting the outcome of a soccer match
+Source: Kaggle
+Link: https://www.kaggle.com/hugomathien/soccer/version/10
+Betting houses and private gamblers want to make money. The houses need to stay in business, and private gamblers want to beat the system.
+Discovering a new method to predict soccer match outcomes will help the owner of that method towards his or her goal.
+
+
+2. Which patient attributes correlate more highly with kidney disease
+Source: UCI Machine Learning Depository
+Link: http://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease
+If these attributes can be discovered, it can help doctors identify people at higher risk of kidney disease.
+It can also help those people take preventative action or preparative action.
+
+
+3. Predicting likelihood that a prospect has subscribed to a term deposit
+Source UCI Machine Learning Depository
+Link: http://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+Term deposits are long term, low-yield, low-risk investments that investors make with a bank for a set amount of time.
+The benefit for investors is the low risk. The benefit for banks is the capital influx that they can use for higher yield investments.
+Identifying these clients on a large scale can help a bank to plan for these higher yield investments.
+It can also help banks identify high quality prospects that did not invest, and to offer them these products.
+
